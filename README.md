@@ -3,7 +3,7 @@
 ## 🚀 Overview
 
 Welcome to **Future-Interns-Internship** — a curated portfolio of data and analytics projects completed as part of the Future Interns Internship Program.  
-This repository showcases hands-on work, real datasets, and analytical insights developed to demonstrate real-world skills in data analysis, visualization, and business intelligence. :contentReference[oaicite:0]{index=0}
+This repository showcases hands-on work, real datasets, and analytical insights developed to demonstrate real-world skills in data analysis, visualization, and business intelligence.
 
 Throughout this internship, the focus was on tackling industry-relevant tasks, maintaining professional project standards, and communicating results effectively — both through code and BI tools.
 
